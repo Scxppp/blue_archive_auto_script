@@ -12,7 +12,8 @@ from tqdm import tqdm
 # gitee的下载地址需要把blob改成raw
 TMP_PATH = './tmp'
 GET_PYTHON_URL = 'https://gitee.com/pur1fy/blue_archive_auto_script_assets/raw/master/python-3.9.13-embed-amd64.zip'
-REPO_URL_HTTP = 'https://gitee.com/pur1fy/blue_archive_auto_script.git'
+# REPO_URL_HTTP = 'https://gitee.com/pur1fy/blue_archive_auto_script.git'
+REPO_URL_HTTP = 'https://github.com/Scxppp/blue_archive_auto_script.git'
 GIT_HOME = './tookit/Git/bin/git.exe'
 GET_PIP_URL = 'https://gitee.com/pur1fy/blue_archive_auto_script_assets/raw/master/get-pip.py'
 GET_ATX_URL = 'https://gitee.com/pur1fy/blue_archive_auto_script_assets/raw/master/ATX.apk'
